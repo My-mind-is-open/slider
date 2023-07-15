@@ -25,7 +25,7 @@
 	display: inline-block;
 	vertical-align: middle;
 	padding: 5px 10px;
-	background: blueviolet;
+	background: #F0E68C;
 	color: black;
 	width: 50px;
 	height: 30px;
@@ -36,7 +36,7 @@
 	display: inline-block;
 	vertical-align: middle;
 	padding: 5px 10px;
-	background: blueviolet;
+	background: #F0E68C;
 	color: black;
 	width: 50px;
 	height: 30px;
@@ -48,7 +48,7 @@
 .button-prev:hover,
 .button-next:hover,
 .dot:hover {
-	background: #00FFFF;
+	background: #6495ED;
 }
 
 .button-prev:active,
@@ -78,7 +78,7 @@
 
 
 .active {
-	background: #00FFFF;
+	background: black;
 }
 
 .div {
